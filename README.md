@@ -1,2 +1,4 @@
 # hello-world
-practice respository 
+
+Hello!
+This is Allison and I'm here to learn.
